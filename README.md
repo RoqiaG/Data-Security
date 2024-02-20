@@ -1,2 +1,2 @@
 # Data-Security
-Implement Encryption and Decryption Techniques
+Implement Encryption and Decryption Algorithms
